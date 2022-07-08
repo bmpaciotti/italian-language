@@ -21,8 +21,7 @@
 
 -   Not even Isiah was a four-year starter.
 
-    -   <u>Nemmeno</u> Isiah è stato un titolare per quattro anni di
-        > seguito.
+    -   <u>Nemmeno</u> Isiah è stato un titolare per quattro anni di seguito.
 
 ## Non-Verb-Piu
 
@@ -48,8 +47,7 @@
 
 -   Contestants would compete for the opportunity to go shopping.
 
-    -   I concorrenti gareggiano per la possibilità <u>di fare la
-        > spesa</u>.
+    -   I concorrenti gareggiano per la possibilità <u>di fare la spesa</u>.
 
 -   I've been meaning to go shopping.
 
@@ -91,8 +89,7 @@
 
 # Culture
 
--   Sylvia laughs and says everything is complex in Italy: Language,
-    > government, complex social cues!
+-   Sylvia laughs and says everything is complex in Italy: Language, government, complex social cues!
 
 # Key Pattern -- Object Pronouns 
 
@@ -112,8 +109,7 @@
 
 -   First comes the <u>indirect pronoun</u>, then the direct pronoun.
 
--   The vowel i of the indirect pronoun (mi, ti, ci, vi, si) changes to
-    > e (me, te, ce, ve, se).
+-   The vowel i of the indirect pronoun (mi, ti, ci, vi, si) changes to e (me, te, ce, ve, se).
 
 -   gli and lo fuse to glielo.
 
@@ -819,65 +815,49 @@ Others
 
 ## TO or FOR
 
-1.  Mi puoi portare qualcosa da bere? **Can you bring me something to
-    > drink?**
+1.  Mi puoi portare qualcosa da bere? **Can you bring me something to drink?**
 
-2.  Sì, ti porto qualcosa subito! **Yes, I'll bring you something right
-    > away!**
+2.  Sì, ti porto qualcosa subito! **Yes, I'll bring you something right away!**
 
-    -   This answers the question, TO WHOM will you bring something? TO
-        > YOU.
+    -   This answers the question, TO WHOM will you bring something? TO YOU.
 
 3.  Ci dai più tempo, per favore? **Can you give us more time, please?**
 
-    -   This answers the question, TO WHOM can you give more time? TO
-        > US.
+    -   This answers the question, TO WHOM can you give more time? TO US.
 
 4.  Vi chiediamo scusa. **We ask for your forgiveness**
 
-    -   This answers the question, TO WHOM are you asking forgiveness?
-        > TO YOU GUYS.
+    -   This answers the question, TO WHOM are you asking forgiveness? TO YOU GUYS.
 
 5.  Lui vuole parlare con mia mamma? **He wants to talk to my mom?**
 
 6.  No, non le vuole parlare **No, he doesn't want to talk to her**
 
-    -   This answers the question, WHO IS IT that he wants to talk to?
-        > TO HER
+    -   This answers the question, WHO IS IT that he wants to talk to? TO HER
 
-7.  Mi dai questo. **You give this to me (literally: to me, you give
-    > this)**
+7.  Mi dai questo. **You give this to me (literally: to me, you give this)**
 
-8.  Mi compri questo. Y**ou buy this for me (literally: for me, you buy
-    > this)**
+8.  Mi compri questo. Y**ou buy this for me (literally: for me, you buy this)**
 
 9.  Ti do questo **I give this to you (literally: to you, I give this)**
 
-10. Ti compro questo **I buy this for you (literally: for you, I buy
-    > this)**
+10. Ti compro questo **I buy this for you (literally: for you, I buy this)**
 
-11. Vi do questo **I give this to you – plural (literally: to you, I
-    > give this)**
+11. Vi do questo **I give this to you – plural (literally: to you, I give this)**
 
-12. Vi compro questo **I buy this for you – plural (literally: for you,
-    > I buy this)**
+12. Vi compro questo **I buy this for you – plural (literally: for you, I buy this)**
 
-13. Gli do questo **I give this to him/them (literally: to him/them, I
-    > give this)**
+13. Gli do questo **I give this to him/them (literally: to him/them, I give this)**
 
-14. Gli compro questo **I buy this for him/them (literally: for
-    > him/them, I buy this)**
+14. Gli compro questo **I buy this for him/them (literally: for him/them, I buy this)**
 
 15. Le do questo **I give this to her (literally: to her, I give this)**
 
-16. Le compro questo **I buy this for her (literally: for her, I buy
-    > this)**
+16. Le compro questo **I buy this for her (literally: for her, I buy this)**
 
-17. Ci dai questo **You give this to us (literally: to us, you give
-    > this)i**
+17. Ci dai questo **You give this to us (literally: to us, you give this)i**
 
-18. Ci compri questo **You buy this for us (literally: for us, you buy
-    > this)**
+18. Ci compri questo **You buy this for us (literally: for us, you buy this)**
 
 ## Examples 
 
@@ -1083,11 +1063,9 @@ style="width:4.5625in;height:1.69792in" />
 -   **Stasera ce li darà sicuramente.** \[I’m sure he’ll give them to us
     > this evening.\]
 
-<img src="./media/image50.png"
-style="width:6.67708in;height:6.08333in" />
+<img src="./media/image50.png" style="width:6.67708in;height:6.08333in" />
 
-<img src="./media/image131.png"
-style="width:6.35417in;height:1.55208in" />
+<img src="./media/image131.png" style="width:6.35417in;height:1.55208in" />
 
 # Pronoun Ci and Vi
 
@@ -1104,39 +1082,31 @@ style="width:6.94792in;height:2.84375in" />
 
 # Most Common 100 Verbs
 
-# <img src="./media/image96.png"
-style="width:6.4375in;height:8.60417in" />
+# <img src="./media/image96.png" style="width:6.4375in;height:8.60417in" />
 
 ## Common ARE Verbs
 
-# <img src="./media/image114.png"
-style="width:6.19792in;height:7.32292in" />
+# <img src="./media/image114.png" style="width:6.19792in;height:7.32292in" />
 
 <img src="./media/image11.png" style="width:5.5in;height:6.48958in" />
 
 ## Common ERE Verbs
 
-<img src="./media/image106.png"
-style="width:5.71354in;height:2.89583in" />
+<img src="./media/image106.png" style="width:5.71354in;height:2.89583in" />
 
-<img src="./media/image115.png"
-style="width:6.17708in;height:6.04688in" />
+<img src="./media/image115.png" style="width:6.17708in;height:6.04688in" />
 
 ## Common IRE Verbs 
 
-<img src="./media/image6.png"
-style="width:5.30208in;height:6.77604in" />
+<img src="./media/image6.png" style="width:5.30208in;height:6.77604in" />
 
-<img src="./media/image150.png"
-style="width:5.86458in;height:5.82292in" />
+<img src="./media/image150.png" style="width:5.86458in;height:5.82292in" />
 
-<img src="./media/image104.png"
-style="width:6.51562in;height:7.22917in" />
+<img src="./media/image104.png" style="width:6.51562in;height:7.22917in" />
 
 # Modal Verbs!
 
-<img src="./media/image102.png"
-style="width:4.66447in;height:4.31771in" />
+<img src="./media/image102.png" style="width:4.66447in;height:4.31771in" />
 
 ## Tense Subtleties
 
