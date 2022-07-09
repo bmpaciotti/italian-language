@@ -1057,11 +1057,9 @@ style="width:4.5625in;height:1.69792in" />
     > lend it to you, but be careful not to ruin it.\]
 
 -   **Marco non ci ha ancora dato gli inviti per la festa di venerdì.**
-    > \[Marco still hasn’t given us the invitations for Friday’s
-    > party.\]
+    > \[Marco still hasn’t given us the invitations for Friday’s party.\]
 
--   **Stasera ce li darà sicuramente.** \[I’m sure he’ll give them to us
-    > this evening.\]
+-   **Stasera ce li darà sicuramente.** \[I’m sure he’ll give them to us this evening.\]
 
 <img src="./media/image50.png" style="width:6.67708in;height:6.08333in" />
 
@@ -1077,8 +1075,7 @@ style="width:4.5625in;height:1.69792in" />
 
 # Reflexive Pronouns 
 
-<img src="./media/image90.png"
-style="width:6.94792in;height:2.84375in" />
+ <img src="./media/image90.png" style="width:6.94792in;height:2.84375in" />
 
 # Most Common 100 Verbs
 
@@ -1340,8 +1337,7 @@ style="width:6.33333in;height:3.67708in" />
 
 # Future 
 
-<img src="./media/image65.png"
-style="width:5.92708in;height:6.17188in" />
+<img src="./media/image65.png" style="width:5.92708in;height:6.17188in" />
 
 **Compare to Avere!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
 
@@ -1397,8 +1393,7 @@ style="width:5.61458in;height:4.94792in" />
 
 # Irregular -ARE Verbs -- Only 4 !
 
-<img src="./media/image75.png"
-style="width:5.71354in;height:5.30208in" />
+<img src="./media/image75.png" style="width:5.71354in;height:5.30208in" />
 
 # 
 
