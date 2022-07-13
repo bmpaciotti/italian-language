@@ -113,8 +113,7 @@
 
 -   gli and lo fuse to glielo.
 
-<img src="./media/image2.png"
-style="width:5.63542in;height:2.20833in" />
+<img src="./media/image2.png" style="width:5.63542in;height:2.20833in" />
 
 # Critical Words
 
@@ -138,48 +137,39 @@ style="width:5.63542in;height:2.20833in" />
 
 -   dopotutto - after all
 
-<img src="./media/image66.png"
-style="width:2.98438in;height:4.13441in" />
+<img src="./media/image66.png" style="width:2.98438in;height:4.13441in" />
 
 # Nouns and Articles -- Noun Groups are Key!
 
 <img src="./media/image136.png" style="width:7.5in;height:8.20833in" />
 
-<img src="./media/image78.png"
-style="width:6.6875in;height:2.78125in" />
+<img src="./media/image78.png" style="width:6.6875in;height:2.78125in" />
 
 <img src="./media/image67.png" style="width:6.375in;height:8.98958in" />
 
-<img src="./media/image23.png"
-style="width:6.54167in;height:9.21875in" />
+<img src="./media/image23.png" style="width:6.54167in;height:9.21875in" />
 
-<img src="./media/image120.png"
-style="width:6.51042in;height:4.4375in" />
+<img src="./media/image120.png" style="width:6.51042in;height:4.4375in" />
 
 <img src="./media/image21.png"
 style="width:6.15625in;height:1.58333in" />
 
-<img src="./media/image109.png"
-style="width:6.66667in;height:1.54167in" />
+<img src="./media/image109.png" style="width:6.66667in;height:1.54167in" />
 
 <img src="./media/image84.png" style="width:7.14583in;height:2.625in" />
 
-<img src="./media/image140.png"
-style="width:6.5625in;height:3.95833in" />
+<img src="./media/image140.png" style="width:6.5625in;height:3.95833in" />
 
-<img src="./media/image32.png"
-style="width:6.40625in;height:3.78125in" />
+<img src="./media/image32.png" style="width:6.40625in;height:3.78125in" />
 
 <img src="./media/image3.png" style="width:7.5in;height:1.79167in" />
 
-# <img src="./media/image69.png"
-style="width:7.19792in;height:2.61458in" />
+<img src="./media/image69.png" style="width:7.19792in;height:2.61458in" />
 
 <img src="./media/image125.png"
 style="width:7.0625in;height:6.49479in" />
 
-# <img src="./media/image5.png"
-style="width:7.41667in;height:5.41667in" />
+<img src="./media/image5.png" style="width:7.41667in;height:5.41667in" />
 
 <img src="./media/image116.png"
 style="width:7.11458in;height:3.11458in" />
@@ -188,26 +178,21 @@ style="width:7.11458in;height:3.11458in" />
 
 # 
 
-<img src="./media/image128.png"
-style="width:6.94792in;height:5.82292in" />
+<img src="./media/image128.png" style="width:6.94792in;height:5.82292in" />
 
-# <img src="./media/image79.png"
-style="width:5.58333in;height:5.8125in" />
+<img src="./media/image79.png" style="width:5.58333in;height:5.8125in" />
 
-<img src="./media/image26.png"
-style="width:5.18351in;height:2.07813in" />
+<img src="./media/image26.png" style="width:5.18351in;height:2.07813in" />
 
-<img src="./media/image45.png"
-style="width:6.32292in;height:5.61458in" />
+<img src="./media/image45.png" style="width:6.32292in;height:5.61458in" />
 
 # Cognates
 
-# <img src="./media/image17.png" style="width:7.5in;height:4.26389in" />
+<img src="./media/image17.png" style="width:7.5in;height:4.26389in" />
 
 # Prepositions 
 
-<img src="./media/image141.png"
-style="width:7.39583in;height:6.54688in" />
+<img src="./media/image141.png" style="width:7.39583in;height:6.54688in" />
 
 <img src="./media/image70.png" style="width:7.5in;height:6.43056in" />
 
@@ -215,35 +200,31 @@ style="width:7.39583in;height:6.54688in" />
 
 <img src="./media/image12.png" style="width:7.5in;height:3.04167in" />
 
-<img src="./media/image53.png"
-style="width:2.65625in;height:2.30208in" />
+<img src="./media/image53.png" style="width:2.65625in;height:2.30208in" />
 
 <img src="./media/image52.png" style="width:7.5in;height:1.375in" />
 
-# <img src="./media/image51.png" style="width:7.5in;height:1.68056in" />
+<img src="./media/image51.png" style="width:7.5in;height:1.68056in" />
 
 <img src="./media/image48.png" style="width:7.5in;height:1.19444in" />
 
-<img src="./media/image121.png"
-style="width:6.97917in;height:0.69271in" />
+<img src="./media/image121.png" style="width:6.97917in;height:0.69271in" />
 
-# <img src="./media/image88.png" style="width:7.5in;height:0.93056in" />
+<img src="./media/image88.png" style="width:7.5in;height:0.93056in" />
 
-# <img src="./media/image4.png" style="width:7.5in;height:3.41667in" />
+<img src="./media/image4.png" style="width:7.5in;height:3.41667in" />
 
 <img src="./media/image72.png" style="width:6.125in;height:3.98958in" />
 
-<img src="./media/image73.png"
-style="width:5.79167in;height:2.11458in" />
+<img src="./media/image73.png" style="width:5.79167in;height:2.11458in" />
 
-<img src="./media/image145.png"
-style="width:7.02083in;height:5.22917in" />
+<img src="./media/image145.png" style="width:7.02083in;height:5.22917in" />
 
 # Contractions 
 
 <img src="./media/image105.png" style="width:7.5in;height:1.81944in" />
 
-When using the definite article (il, lo, la, I’, i, gli, le) with the
+- When using the definite article (il, lo, la, I’, i, gli, le) with the
 prepositions a,da, di, in and su (to, from, of, in and on) the
 preposition and the article can combine to make a new form:
 
@@ -262,8 +243,7 @@ style="width:6.21875in;height:6.65625in" />
 
 -   Non sono <u>mai</u> stato in Italia **Not am ever been in Italy**
 
--   Non sono <u>mai</u> stato in America. **I’ve never been to
-    > America.**
+-   Non sono <u>mai</u> stato in America. **I’ve never been to America.**
 
 -   Non vedo <u>niente</u> **Not I see nothing**
 
@@ -271,14 +251,12 @@ style="width:6.21875in;height:6.65625in" />
 
 -   Non e venuto <u>nessuno</u> **Not is come nobody (Nobody came)**
 
--   Non abita <u>piu</u> qui **Not he live more here (He no longer lives
-    > here)**
+-   Non abita <u>piu</u> qui **Not he live more here (He no longer lives here)**
 
--   Non e venuto <u>neanche</u> il presidente **Not is come not even
-    > president (Not even the president came)**
+-   Non e venuto <u>neanche</u> il presidente **Not is come not even president (Not even the president came)**
 
--   Non abbiamo visitato <u>ne</u> Roma <u>ne</u> Firenze **We visited
-    > neither Rome nor Florence**
+-   Non abbiamo visitato <u>ne</u> Roma <u>ne</u> Firenze 
+   >  **We visited neither Rome nor Florence**
 
 -   Sto bene. Non ho <u>né</u> fame <u>né</u> sete. **I’m fine. I’m
     > neither hungry nor thirsty.**
@@ -577,11 +555,9 @@ style="width:6.42708in;height:4.09985in" />
 
 <img src="./media/image43.png" style="width:7.5in;height:4.11111in" />
 
-<img src="./media/image119.png"
-style="width:7.23958in;height:3.77083in" />
+<img src="./media/image119.png" style="width:7.23958in;height:3.77083in" />
 
-<img src="./media/image22.png"
-style="width:7.19792in;height:4.65104in" />
+<img src="./media/image22.png" style="width:7.19792in;height:4.65104in" />
 
 # Direct Objects 
 
@@ -977,8 +953,7 @@ Others
 **In everyday Italian, however, loro is replaced by gli and is written
 as one word with a following direct object pronoun.**
 
-<img src="./media/image34.png"
-style="width:4.5625in;height:1.69792in" />
+<img src="./media/image34.png" style="width:4.5625in;height:1.69792in" />
 
 ## Example 
 
@@ -1079,11 +1054,11 @@ style="width:4.5625in;height:1.69792in" />
 
 # Most Common 100 Verbs
 
-# <img src="./media/image96.png" style="width:6.4375in;height:8.60417in" />
+<img src="./media/image96.png" style="width:6.4375in;height:8.60417in" />
 
 ## Common ARE Verbs
 
-# <img src="./media/image114.png" style="width:6.19792in;height:7.32292in" />
+<img src="./media/image114.png" style="width:6.19792in;height:7.32292in" />
 
 <img src="./media/image11.png" style="width:5.5in;height:6.48958in" />
 
@@ -1432,7 +1407,6 @@ a Mario, a qualcuno, a tutti etc.
 
 -   Verbs can be active or passive.
 
-<!-- -->
 
 -   In a sentence with an active verb the subject of the sentence does
     > the action:
@@ -1894,32 +1868,25 @@ ogni giorno.</p>
 
 <img src="./media/image83.png" style="width:7.5in;height:4.18056in" />
 
-<img src="./media/image77.png"
-style="width:5.02083in;height:3.3125in" />
+<img src="./media/image77.png" style="width:5.02083in;height:3.3125in" />
 
-<img src="./media/image24.png"
-style="width:5.03125in;height:2.23958in" />
+<img src="./media/image24.png" style="width:5.03125in;height:2.23958in" />
 
-<img src="./media/image137.png"
-style="width:5.07292in;height:1.29167in" />
+<img src="./media/image137.png" style="width:5.07292in;height:1.29167in" />
 
-<img src="./media/image71.png"
-style="width:5.05208in;height:1.19792in" />
+<img src="./media/image71.png" style="width:5.05208in;height:1.19792in" />
 
-<img src="./media/image123.png"
-style="width:5.0625in;height:1.83333in" />
+<img src="./media/image123.png" style="width:5.0625in;height:1.83333in" />
 
-<img src="./media/image74.png"
-style="width:5.03125in;height:1.57292in" />
+<img src="./media/image74.png" style="width:5.03125in;height:1.57292in" />
 
-<img src="./media/image134.png"
-style="width:5.05208in;height:3.70833in" />
+<img src="./media/image134.png" style="width:5.05208in;height:3.70833in" />
 
 # Past Participle
 
 <img src="./media/image149.png" style="width:7.5in;height:2.13889in" />
 
-# <img src="./media/image76.png" style="width:7.5in;height:4.25in" />
+<img src="./media/image76.png" style="width:7.5in;height:4.25in" />
 
 # 
 
@@ -1927,16 +1894,13 @@ style="width:5.05208in;height:3.70833in" />
 
 <img src="./media/image144.png" style="width:7.5in;height:5.23611in" />
 
-<img src="./media/image86.png"
-style="width:6.72917in;height:6.80208in" />
+<img src="./media/image86.png" style="width:6.72917in;height:6.80208in" />
 
 ## Reflexive Verbs also Use Essere 
 
-<img src="./media/image99.png"
-style="width:5.44792in;height:2.82292in" />
+<img src="./media/image99.png" style="width:5.44792in;height:2.82292in" />
 
-# <img src="./media/image117.png"
-style="width:5.4375in;height:0.83333in" />
+<img src="./media/image117.png" style="width:5.4375in;height:0.83333in" />
 
 <u>Intransitive Examples</u>
 
@@ -2264,13 +2228,13 @@ style="width:5.4375in;height:0.83333in" />
 
 # Verb Charts 
 
-# <img src="./media/image29.png" style="width:7.5in;height:5.55556in" />
+<img src="./media/image29.png" style="width:7.5in;height:5.55556in" />
 
-# <img src="./media/image9.png" style="width:7.5in;height:5.5in" />
+<img src="./media/image9.png" style="width:7.5in;height:5.5in" />
 
-# <img src="./media/image47.png" style="width:7.5in;height:5.43056in" />
+<img src="./media/image47.png" style="width:7.5in;height:5.43056in" />
 
-# <img src="./media/image16.png" style="width:7.5in;height:5.43056in" />
+ <img src="./media/image16.png" style="width:7.5in;height:5.43056in" />
 
 <img src="./media/image94.png" style="width:7.5in;height:5.45833in" />
 
@@ -2284,11 +2248,9 @@ style="width:5.4375in;height:0.83333in" />
 
 # 
 
-Ki<img src="./media/image146.png"
-style="width:6.03646in;height:6.03125in" />
+<img src="./media/image146.png" style="width:6.03646in;height:6.03125in" />
 
-<img src="./media/image8.png"
-style="width:5.40625in;height:4.19071in" />
+<img src="./media/image8.png" style="width:5.40625in;height:4.19071in" />
 
 # How to Learn Italian Grammar: 6 Shortcuts 
 
