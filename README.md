@@ -1324,16 +1324,13 @@ head is spinning... *vi potete sedere, or potete sedervi!*
 
 <img src="./media/image35.png" style="width:7.5in;height:4.125in" />
 
-# <img src="./media/image89.png"
-style="width:6.80241in;height:4.14757in" />
+<img src="./media/image89.png" style="width:6.80241in;height:4.14757in" />
 
-# <img src="./media/image33.png"
-style="width:3.09896in;height:5.47917in" />
+<img src="./media/image33.png" style="width:3.09896in;height:5.47917in" />
 
 # Imperfect Tense 
 
-# <img src="./media/image13.png"
-style="width:6.33333in;height:3.67708in" />
+ <img src="./media/image13.png" style="width:6.33333in;height:3.67708in" />
 
 # Future 
 
@@ -1367,8 +1364,7 @@ style="width:6.33333in;height:3.67708in" />
 
 <img src="./media/image95.png" style="width:7.5in;height:4.13889in" />
 
-<img src="./media/image19.png"
-style="width:6.39583in;height:3.91667in" />
+<img src="./media/image19.png" style="width:6.39583in;height:3.91667in" />
 
 # Imperative (Command)
 
@@ -1376,18 +1372,15 @@ style="width:6.39583in;height:3.91667in" />
 
 <img src="./media/image54.png" style="width:6.5in;height:3.32292in" />
 
-<img src="./media/image100.png"
-style="width:5.64583in;height:2.27083in" />
+<img src="./media/image100.png" style="width:5.64583in;height:2.27083in" />
 
 in contonti
 
 <img src="./media/image135.png" style="width:7.5in;height:1.81944in" />
 
-<img src="./media/image25.png"
-style="width:6.67708in;height:10.05208in" />
+<img src="./media/image25.png" style="width:6.67708in;height:10.05208in" />
 
-<img src="./media/image142.png"
-style="width:5.61458in;height:4.94792in" />
+<img src="./media/image142.png" style="width:5.61458in;height:4.94792in" />
 
 <img src="./media/image108.png" style="width:7.5in;height:4.41667in" />
 
