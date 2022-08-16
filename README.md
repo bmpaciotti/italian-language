@@ -75,17 +75,13 @@
 
     -   Ashley aveva il fine settimana per rimuovere i suoi
 
--   Informatively, there are some courses that are extremely crowded in
-    > the weekends.
+-   Informatively, there are some courses that are extremely crowded in the weekends.
 
-    -   Informatively, ci sono alcuni corsi che sono estremamente
-        > affollato nei fine settimana.
+    -   Informatively, ci sono alcuni corsi che sono estremamente affollato nei fine settimana.
 
--   This method works because rental companies offer lower costs for
-    > <u>the weekends</u>.
+-   This method works because rental companies offer lower costs for <u>the weekends</u>.
 
-    -   Questo metodo funziona perché le agenzie di noleggio spesso
-        > abbassano i costi **nei fine settimana.**
+    -   Questo metodo funziona perché le agenzie di noleggio spesso abbassano i costi **nei fine settimana.**
 
 # Culture
 
@@ -255,11 +251,9 @@ style="width:6.21875in;height:6.65625in" />
 
 -   Non e venuto <u>neanche</u> il presidente **Not is come not even president (Not even the president came)**
 
--   Non abbiamo visitato <u>ne</u> Roma <u>ne</u> Firenze 
-   >  **We visited neither Rome nor Florence**
+-   Non abbiamo visitato <u>ne</u> Roma <u>ne</u> Firenze   **We visited neither Rome nor Florence**
 
--   Sto bene. Non ho <u>né</u> fame <u>né</u> sete. **I’m fine. I’m
-    > neither hungry nor thirsty.**
+-   Sto bene. Non ho <u>né</u> fame <u>né</u> sete. **I’m fine. I’m neither hungry nor thirsty.**
 
 -   Chi e venuto con Lei? **Nessuno. Who came with you? No one.**
 
@@ -405,8 +399,7 @@ prepositions” no
 
 -   Anna è **più/meno** gentile con Tatiana **che** con me
 
--   Mio fratello è **più/meno** affezionato a mio padre **che** a mia
-    > madre
+-   Mio fratello è **più/meno** affezionato a mio padre **che** a mia madre
 
 # Comparative of quantity – Comparativo di quantità
 
@@ -517,30 +510,21 @@ maximum and absolute grade, independent to any comparison**:
 Orally, we can also express it **joining the adjective with another
 one**, which will strengthen it:
 
--   Oggi ho lavorato tutto il giorno senza pausa: sono **stanca morta**!
-    > = stanchissima/molto stanca
+-   Oggi ho lavorato tutto il giorno senza pausa: sono **stanca morta**! = stanchissima/molto stanca
 
--   Matteo è **innamorato cotto** di Giulia = innamoratissimo/molto
-    > innamorato
+-   Matteo è **innamorato cotto** di Giulia = innamoratissimo/molto innamorato
 
--   Stamattina è iniziato a piovere e non avevo l’ombrello, sono
-    > arrivata al lavoro **bagnata fradicia** = bagnatissima/molto
-    > bagnata
+-   Stamattina è iniziato a piovere e non avevo l’ombrello, sono arrivata al lavoro **bagnata fradicia** = bagnatissima/molto bagnata
 
 -   Brad Pitt è **bello da morire**! = è bellissimo/è molto bello
 
--   Il proprietario di quella villa con piscina ha anche una barca a
-    > vela e altre due case alle Maldive, è **ricco sfondato**! =
-    > ricchissimo/molto ricco
+-   Il proprietario di quella villa con piscina ha anche una barca a vela e altre due case alle Maldive, è **ricco sfondato**! = ricchissimo/molto ricco
 
 Or **adding prefixes** like: ***arci- /*** ***stra-***
 
--   Il proprietario di quella villa con piscina ha anche una barca a
-    > vela e altre due case alle Maldive, è **straricco**! =
-    > ricchissimo/molto ricco
+-   Il proprietario di quella villa con piscina ha anche una barca a vela e altre due case alle Maldive, è **straricco**! = ricchissimo/molto ricco
 
--   Matteo è **strainnamorato** di Giulia = innamoratissimo/molto
-    > innamorato
+-   Matteo è **strainnamorato** di Giulia = innamoratissimo/molto innamorato
 
 -   Brad Pitt è **arcifamoso** = famossissimo/molto famoso
 
@@ -570,8 +554,7 @@ know</u>**?"
 
 -   lo, la, li, and le are only direct pronouns!
 
--   The equivalent indirect forms are gli to him/for him, le to her/for
-    > her, and gli to them/for them.
+-   The equivalent indirect forms are gli to him/for him, le to her/for her, and gli to them/for them.
 
     -   **mi**  =  me
 
@@ -595,18 +578,15 @@ know</u>**?"
 
 -   Mi ha chiamato Maria. **Maria called me.**
 
--   Ho preso il giornale. Lo vuoi leggere? **I’ve bought the paper. Do
-    > You want to read it?**
+-   Ho preso il giornale. Lo vuoi leggere? **I’ve bought the paper. Do You want to read it?**
 
 -   Chiamami domani. **Call me tomorrow.**
 
--   Conosci Tom? (Do you know Tom?) Sì, LO conosco **Yes, IT IS HIM that
-    > I know**
+-   Conosci Tom? (Do you know Tom?) Sì, LO conosco **Yes, IT IS HIM that I know**
 
 -   Sì, ti vedo Yes, I see you.
 
--   Conosci Matteo? **Do you know Matthew?** No, non lo conosco **No, I
-    > don't know him**
+-   Conosci Matteo? **Do you know Matthew?** No, non lo conosco **No, I don't know him**
 
 -   Ci vedono **They see us**
 
@@ -630,44 +610,33 @@ know</u>**?"
 
 -   Luigi li finisce. **Luigi is finishing them**.
 
--   Mi dai questo. **You give this to me (literally: to me, you give
-    > this**
+-   Mi dai questo. **You give this to me (literally: to me, you give this**
 
--   Mi compri questo. Y**ou buy this for me (literally: for me, you buy
-    > this)**
+-   Mi compri questo. Y**ou buy this for me (literally: for me, you buy this)**
 
 -   Io t’amo. **I love you.**
 
--   Cerco il libro, ma non lo trovo. **I’m looking for the book, but I
-    > can’t find it.**
+-   Cerco il libro, ma non lo trovo. **I’m looking for the book, but I can’t find it.**
 
 -   Ieri mi hanno chiamato. **They called me yesterday.**
 
--   Non so perché non ci hanno invitato. **I don’t know why they didn’t
-    > invite us.**
+-   Non so perché non ci hanno invitato. **I don’t know why they didn’t invite us.**
 
--   Giovanni abita lontano. Non lo vedo mai. Giovanni lives far away.
-    > **I never see him.**
+-   Giovanni abita lontano. Non lo vedo mai. Giovanni lives far away. **I never see him.**
 
--   Anna parla male il francese. Nessuno la capisce. **Anna speaks
-    > French badly. No one understands her.**
+-   Anna parla male il francese. Nessuno la capisce. **Anna speaks French badly. No one understands her.**
 
--   I problemi sono difficili. Non li ho risolti. **The problems are
-    > difficult. I haven’t solved them.**
+-   I problemi sono difficili. Non li ho risolti. **The problems are difficult. I haven’t solved them.**
 
--   Dove sono le chiavi? Non le trovo. **Where are the keys? I can’t
-    > find them.**
+-   Dove sono le chiavi? Non le trovo. **Where are the keys? I can’t find them.**
 
 ## Passato Prossimo with Direct Objects 
 
--   Hai comprato i fiori? Sì, li ho comprati. **Did you buy flowers?
-    > Yes, I bought them.**
+-   Hai comprato i fiori? Sì, li ho comprati. **Did you buy flowers? Yes, I bought them.**
 
--   Ho invitato Anna due volte al mio compleanno ma non è mai venuta,
-    > quindi non l‘ho più invitata.
+-   Ho invitato Anna due volte al mio compleanno ma non è mai venuta, quindi non l‘ho più invitata.
 
-    -   **I invited Anna twice to my birthday party but she never came,
-        > so I haven’t invited her again.**
+    -   **I invited Anna twice to my birthday party but she never came, so I haven’t invited her again.**
 
 -   Le scarpe di tua sorella sono bellissime, dove le ha comprate?
 
@@ -677,25 +646,20 @@ know</u>**?"
 
 -   Io l’ho portata al negozio. **I took her to the store**
 
--   Chi te l’ha detto? Me l’ha detto lui. **Who told you that? He told
-    > me.**
+-   Chi te l’ha detto? Me l’ha detto lui. **Who told you that? He told me.**
 
 -   Lui m’ha colpito. **He hit me.**
 
 -   Ho comprato il biglietto**. (I bought the ticket.) →** L’ho
     > comprato. **(I bought it.)**
 
--   Ho comprato la pizza. **(I bought the pizza.) →** L’ho comprata**.
-    > (I bought it.)**
+-   Ho comprato la pizza. **(I bought the pizza.) →** L’ho comprata**. (I bought it.)**
 
--   Ha comprato i pomodori. **(He bought the tomatoes.) →** Li ha
-    > comprati. **(He bought them.)**
+-   Ha comprato i pomodori. **(He bought the tomatoes.) →** Li ha comprati. **(He bought them.)**
 
--   Hanno comprato le sedie**. (They bought the chairs.) →** Le hanno
-    > comprate. **(They bought them.)**
+-   Hanno comprato le sedie**. (They bought the chairs.) →** Le hanno comprate. **(They bought them.)**
 
--   Hai comprato le mele? **(Did you buy apples?)** Sì, le ho comprate!
-    > **(Yes, I bought them!)**
+-   Hai comprato le mele? **(Did you buy apples?)** Sì, le ho comprate! **(Yes, I bought them!)**
 
 -   Hai preparato gli spaghetti? Sì, li ho preparati.
 
@@ -703,12 +667,9 @@ know</u>**?"
 
 ## Easier Methods – Modal Verbs! 
 
--   Whenever you've got 2 verbs in a sentence you can add the Direct
-    > Object Pronoun onto the end of the second verb that's in its
-    > infinitive form (ends in -are, -ere, or -ire).
+-   Whenever you've got 2 verbs in a sentence you can add the Direct Object Pronoun onto the end of the second verb that's in its infinitive form (ends in -are, -ere, or -ire).
 
-    -   We'll call this an exception to the rule - because usually the
-        > Direct Object Pronoun always goes before the verb.
+    -   We'll call this an exception to the rule - because usually the Direct Object Pronoun always goes before the verb.
 
 -   Sì, voglio leggerli. **Yes, I want to read them.**
 
@@ -839,54 +800,41 @@ Others
 
 -   Non GLI parlo. – **I am not talking to him.**
 
--   LE ho offerto un caffé. – **I offered her a cup of coffee. (Think: I
-    > offered a cup of coffee TO her.)**
+-   LE ho offerto un caffé. – **I offered her a cup of coffee. (Think: I offered a cup of coffee TO her.)**
 
--   Cos’hai detto quando GLI hai scrito lo to? – **What did you say when
-    > you wrote to him?**
+-   Cos’hai detto quando GLI hai scrito lo to? – **What did you say when you wrote to him?**
 
--   Le abbiamo dato un libro ieri. – **We gave a book to her
-    > yesterday.**
+-   Le abbiamo dato un libro ieri. – **We gave a book to her yesterday.**
 
 -   A loro piace mangiare qui. – **They like to eat here.**
 
 -   Sì, gli scrivo qualcosa **Yes, TO HIM I'll write something**
 
--   Mi puoi portare qualcosa da bere? **To me, can you bring something
-    > to drink?**
+-   Mi puoi portare qualcosa da bere? **To me, can you bring something to drink?**
 
--   Sì, ti porto qualcosa subito! **Yes, I'll bring you something right
-    > away!**
+-   Sì, ti porto qualcosa subito! **Yes, I'll bring you something right away!**
 
--   Ci dai più tempo, per favore? **To US, can you give more time,
-    > please?**
+-   Ci dai più tempo, per favore? **To US, can you give more time, please?**
 
 -   Vi chiediamo scusa. **We ask for your forgiveness**
 
--   Qulacuno mi ha mandato una cartolina dalla Spagna. **Someone (has)
-    > sent me a postcard from Spain.**
+-   Qulacuno mi ha mandato una cartolina dalla Spagna. **Someone (has) sent me a postcard from Spain.**
 
--   Il professore le ha spiegato il problema  **The teacher to her (has)
-    > explained the problem**
+-   Il professore le ha spiegato il problema  **The teacher to her (has) explained the problem**
 
--   Gli hai detto di comprare un regalo per sua madre? **Did you tell
-    > him/them to buy a present for (his/their) mother.**
+-   Gli hai detto di comprare un regalo per sua madre? **Did you tell him/them to buy a present for (his/their) mother.**
 
--   Il signor Brambilla ci ha insegnato l'italiano **Mr Brambilla taught
-    > us Italian.**
+-   Il signor Brambilla ci ha insegnato l'italiano **Mr Brambilla taught us Italian.**
 
 -   Cosa gli dici? **What are you saying to him/to them?**
 
--   Lucia,tuo padre vuole parlarti! I **Lucia, your father wants to
-    > speak to you!**
+-   Lucia,tuo padre vuole parlarti! I **Lucia, your father wants to speak to you!**
 
--   Non gli ho mai chiesto di aiutarmi  **I (have) never asked him to
-    > help me.**
+-   Non gli ho mai chiesto di aiutarmi  **I (have) never asked him to help me.**
 
 -   Non oserei consigliarti  **I would not dare to advise you**
 
--   Le ho regalato un paio di orecchini  **I gave her a present of a
-    > pair of earrings.**
+-   Le ho regalato un paio di orecchini  **I gave her a present of a pair of earrings.**
 
 -   Le ho dato tre ricette. **- I gave her three recipes.**
 
@@ -902,30 +850,23 @@ Others
 
 -   Io ti scrivo ogni settimana. **(I write to you each week.)**
 
--   Il cameriere gli dice che non ha il vino bianco. **(The waiter tells
-    > him that he doesn’t have white wine.)**
+-   Il cameriere gli dice che non ha il vino bianco. **(The waiter tells him that he doesn’t have white wine.)**
 
 -   Sua madre le ha telefonato. **(Her mother called her.)**
 
--   Non ci hanno mandato un messaggio. **(They didn’t send us a
-    > message.)**
+-   Non ci hanno mandato un messaggio. **(They didn’t send us a message.)**
 
 -   Lei vi ha letto il libro. **(She read the book to you all.)**
 
--   Lo studente gli ha insegnato una nuova parola. **(The student taught
-    > them a new word.)**
+-   Lo studente gli ha insegnato una nuova parola. **(The student taught them a new word.)**
 
--   Ho detto a Luisa di comprare il pane – **I said to Luisa to buy some
-    > bread**
+-   Ho detto a Luisa di comprare il pane – **I said to Luisa to buy some bread**
 
--   Le ho detto di comprare il pane – **I said to her to buy some
-    > bread**
+-   Le ho detto di comprare il pane – **I said to her to buy some bread**
 
--   Ho prestato la bicicletta a te la settimana scorso – **I lend the
-    > bike to you last week**
+-   Ho prestato la bicicletta a te la settimana scorso – **I lend the bike to you last week**
 
--   Ti ho prestato la bici la settimana scorso – **I lend you the bike
-    > last week**
+-   Ti ho prestato la bici la settimana scorso – **I lend you the bike last week**
 
 -   Ho telefonato a Lucia e Michele – **I phoned (to) Lucia e Michele**
 
@@ -941,8 +882,7 @@ Others
 
 ## Easier Method -- Modal Verb
 
--   Puoi spiegargli la grammatica? – **Can you explain the grammar to
-    > him?**
+-   Puoi spiegargli la grammatica? – **Can you explain the grammar to him?**
 
 -   Voglio telefonargli **I want to phone him.**
 
@@ -973,24 +913,19 @@ as one word with a following direct object pronoun.**
 
 -   **Te la voglio offrire -** I want to offer it to you
 
--   **Puoi spiegare la regola a Maria? -** Can you explain the rule to
-    > Maria?
+-   **Puoi spiegare la regola a Maria? -** Can you explain the rule to Maria?
 
--   **Certo, gliela spiego subito -** Sure, I'll explain it to her right
-    > away
+-   **Certo, gliela spiego subito -** Sure, I'll explain it to her right away
 
--   **Puoi dire le regole a loro, per favore? -** Can you tell them the
-    > rules, please?
+-   **Puoi dire le regole a loro, per favore? -** Can you tell them the rules, please?
 
 -   **Ok, gliele dico adesso** Okay, I'll tell them now
 
--   **Chi ci porterà i biscotti? -** Who will bring us the
-    > cookies/biscotti?
+-   **Chi ci porterà i biscotti? -** Who will bring us the cookies/biscotti?
 
 -   **Giovanna ce li porterà -** Giovanna will bring them to us
 
--   **Ci prometti che verrai alla festa? -** Promise us you'll come to
-    > the party?
+-   **Ci prometti che verrai alla festa? -** Promise us you'll come to the party?
 
 -   **Ve lo prometto -** I promise (it to you guys)
 
@@ -998,41 +933,29 @@ as one word with a following direct object pronoun.**
 
 -   **<u>Glieli</u> ho dati già -** I already gave them to him/her
 
--   **I revisori vogliono vedere il bilancio.** The auditors want to see
-    > the balance sheet.
+-   **I revisori vogliono vedere il bilancio.** The auditors want to see the balance sheet.
 
-    -   **<u>Glielo</u> mandiamo subito.** We’re sending it off to them
-        > right away.
+    -   **<u>Glielo</u> mandiamo subito.** We’re sending it off to them right away.
 
--   **Ho lasciato la mia borsa a casa tua, me la porti per favore?**I
-    > left my bag at your place, can you bring it back to me please?
+-   **Ho lasciato la mia borsa a casa tua, me la porti per favore?**I left my bag at your place, can you bring it back to me please?
 
--   **Non sa quando Anna andrà in vacanza, glielo chiederà domani.** He
-    > doesn’t know when Anna is going on holiday, he will ask her
-    > tomorrow.
+-   **Non sa quando Anna andrà in vacanza, glielo chiederà domani.** He doesn’t know when Anna is going on holiday, he will ask her tomorrow.
 
--   **Ho dimenticato di darti le chiavi, te le do stasera.**I forgot to
-    > give you the keys, I will give them to you tonight.
+-   **Ho dimenticato di darti le chiavi, te le do stasera.**I forgot to give you the keys, I will give them to you tonight.
 
--   **Hai detto a Maria che sua madre la cercava con urgenza?** \[Did
-    > you tell Maria that her mother was looking for her urgently?\]
+-   **Hai detto a Maria che sua madre la cercava con urgenza?** \[Did you tell Maria that her mother was looking for her urgently?\]
 
 -   **No, glielo dico subito!** \[No, I’ll tell her right away!\]
 
--   **Qualcuno ha mandato un mazzo di fiori a Federica.** \[Someone sent
-    > Federica a bunch of flowers.\]
+-   **Qualcuno ha mandato un mazzo di fiori a Federica.** \[Someone sent Federica a bunch of flowers.\]
 
--   **Glielo hanno portato stamattina?** \[Did they bring (her) them/it
-    > this morning?\]
+-   **Glielo hanno portato stamattina?** \[Did they bring (her) them/it this morning?\]
 
--   **Diego, mi puoi prestare la tua bicicletta per un paio d’ore?**
-    > \[Diego, can you lend me your bike for a few hours?\]
+-   **Diego, mi puoi prestare la tua bicicletta per un paio d’ore?** \[Diego, can you lend me your bike for a few hours?\]
 
--   **Sì, te la presto, ma fai attenzione a non rovinarla.** \[Yes, I’ll
-    > lend it to you, but be careful not to ruin it.\]
+-   **Sì, te la presto, ma fai attenzione a non rovinarla.** \[Yes, I’ll lend it to you, but be careful not to ruin it.\]
 
--   **Marco non ci ha ancora dato gli inviti per la festa di venerdì.**
-    > \[Marco still hasn’t given us the invitations for Friday’s party.\]
+-   **Marco non ci ha ancora dato gli inviti per la festa di venerdì.** \[Marco still hasn’t given us the invitations for Friday’s party.\]
 
 -   **Stasera ce li darà sicuramente.** \[I’m sure he’ll give them to us this evening.\]
 
@@ -1160,8 +1083,7 @@ For example, if a modal verb is helping a transitive verb such as
 [*avere*](https://www.thoughtco.com/italian-verb-conjugations-avere-4093137)
 in the compound lo tenses:
 
--   *A scuola ieri Lina non ha voluto leggere.* Yesterday at school Lina
-    > did not want to read (and did not).
+-   *A scuola ieri Lina non ha voluto leggere.* Yesterday at school Lina did not want to read (and did not).
 
     > *Ieri ho dovuto leggere un libro intero per il mio esame.*
     > Yesterday I had to read a whole book for my exam.
@@ -1176,44 +1098,35 @@ a verb of movement that takes *essere*, for example, it takes
 (remember the agreement of the past participle with verbs with
 *essere)*.
 
--   *Lucia non è voluta partire ieri.* Lucia did not want to leave
-    > yesterday (and she didn't).
+-   *Lucia non è voluta partire ieri.* Lucia did not want to leave yesterday (and she didn't).
 
-    > *Franco è dovuto partire ieri.* Franco had to leave yesterday.
+- *Franco è dovuto partire ieri.* Franco had to leave yesterday.
 
-    > *Io non sono potuta partire perché ho perso il treno.* I was not
-    > able to leave because I missed my train.
+- *Io non sono potuta partire perché ho perso il treno.* I was not able to leave because I missed my train.
 
 And, with an intransitive verb that takes *avere*:
 
--   *Marco ha voluto cenare presto.* Marco wanted to have dinner early
-    > (and he did).
+-  *Marco ha voluto cenare presto.* Marco wanted to have dinner early (and he did).
 
-    > *Avremmo dovuto cenare prima.* We should have had dinner earlier.
+     - *Avremmo dovuto cenare prima.* We should have had dinner earlier.
 
-    > *Non abbiamo potuto cenare prima.* We were not able to have dinner
-    > earlier.
+    -*Non abbiamo potuto cenare prima.* We were not able to have dinner earlier.
 
 Remember your ground rules for determining [the right
 auxiliary](https://www.thoughtco.com/choosing-auxiliary-verbs-2011693)
 for your main verb; sometimes it is a case-by-case choice, depending on
 the use of the verb at that moment.
 
--   *Ho dovuto vestire i bambini.* I had to dress the children
-    > (transitive, *avere*).
+-   *Ho dovuto vestire i bambini.* I had to dress the children(transitive, *avere*).
 
-    > *Mi sono dovuta vestire.* I had to get dressed (reflexive,
-    > *essere*).
+    - *Mi sono dovuta vestire.* I had to get dressed (reflexive,*essere*).
 
 Or, for example, with the verb *crescere* (to grow or grow up), which
 can be intransitive or intransitive:
 
--   *Avresti voluto crescere i tuoi figli in campagna.* You would have
-    > liked to have raised your children in the country (transitive,
-    > *avere*).
+-   *Avresti voluto crescere i tuoi figli in campagna.* You would have liked to have raised your children in the country (transitive, *avere*).
 
-    > *Saresti dovuta crescere in campagna.* You should have grown up in
-    > the country (intransitive, essere).
+    -*Saresti dovuta crescere in campagna.* You should have grown up in the country (intransitive, essere).
 
 ## The Odd Auxiliary
 
@@ -1242,12 +1155,9 @@ supporting.
 
 -   *Mi sono dovuta sedere*, or, *ho dovuto sedermi.* I had to sit.
 
-    > *Mi sarei voluta riposare*, or, *avrei voluto riposarmi.* I would
-    > have liked to rest.
+    > *Mi sarei voluta riposare*, or, *avrei voluto riposarmi.* I would have liked to rest.
 
-    > *Pensava che ci fossimo voluti incontrare qui,* or, *pensava che
-    > avessimo voluto incontrarci qui.* She thought that we had wanted
-    > to meet here.
+    > *Pensava che ci fossimo voluti incontrare qui,* or, *pensava che avessimo voluto incontrarci qui.* She thought that we had wanted to meet here.
 
 If this confuses you, just make a rule of putting the pronoun ahead of
 the verb and keeping your auxiliary *essere*.
@@ -1263,27 +1173,20 @@ loosely: They can come before either verb or attach to the infinitive.
 -   *Gli ho dovuto dare il libro*, or, *ho dovuto dargli il libro.* I
     > had to give him the book.
 
-    > *Non gli ho potuto parlare*, or, *non ho potuto parlargli.* I was
-    > not able to speak with him,
+    > *Non gli ho potuto parlare*, or, *non ho potuto parlargli.* I was not able to speak with him,
 
-    > *Glielo ho voluto dare,* or, *ho voluto darglielo.* I had to give
-    > it to him,
+    > *Glielo ho voluto dare,* or, *ho voluto darglielo.* I had to give it to him,
 
-    > *Gli posso dare il gelato?* or, *posso dargli il gelato?* Can I
-    > give him the ice cream?
+    > *Gli posso dare il gelato?* or, *posso dargli il gelato?* Can I give him the ice cream?
 
 With double modal verbs, there is even more freedom, both with single
 and double pronouns:
 
--   *Lo devo poter fare*, or, *devo poterlo fare*, or, *devo poter
-    > farlo.* I need to/must be able to do it.
+-   *Lo devo poter fare*, or, *devo poterlo fare*, or, *devo poter farlo.* I need to/must be able to do it.
 
-    > *Non lo voglio dover incontrare*, or, *non voglio doverlo
-    > incontrare*, or, *non voglio dovere incontrarlo.* I don't want to
-    > have to meet him.
+    > *Non lo voglio dover incontrare*, or, *non voglio doverlo incontrare*, or, *non voglio dovere incontrarlo.* I don't want to have to meet him.
 
-    > *Glielo potrei volere dare*, or, *potrei volerglielo dare*, or
-    > *potrei volere darglielo*. I might want to give it to her.
+    > *Glielo potrei volere dare*, or, *potrei volerglielo dare*, or *potrei volere darglielo*. I might want to give it to her.
 
 If you want to play with it a little, just start by putting the pronoun
 at the top of the sentence and moving it down from verb to verb. If your
@@ -1408,24 +1311,21 @@ a Mario, a qualcuno, a tutti etc.
 -   Verbs can be active or passive.
 
 
--   In a sentence with an active verb the subject of the sentence does
-    > the action:
+-   In a sentence with an active verb the subject of the sentence does the action:
 
 | **Subject** | **Active verb** | **Object**        |
 |-------------|-----------------|-------------------|
 | She         | does            | most of the work. |
 | A dog       | bit             | him.              |
 
--   In a sentence with a passive verb the action is done by someone or
-    > something that is not the subject of the sentence.
+-   In a sentence with a passive verb the action is done by someone or something that is not the subject of the sentence.
 
 | **Subject**      | **Passive verb** | **Who/what the action is done by** |
 |------------------|------------------|------------------------------------|
 | Most of the work | is done          | by her.                            |
 | He               | was bitten       | by a dog.                          |
 
--   To show who or what is responsible for the action in a passive
-    > sentence you use *by* in English.
+-   To show who or what is responsible for the action in a passive sentence you use *by* in English.
 
 <!-- -->
 
@@ -1433,28 +1333,24 @@ a Mario, a qualcuno, a tutti etc.
 
 <!-- -->
 
--   when you want to focus on the person or thing affected by the action
-    > John was injured in an accident.
+-   when you want to focus on the person or thing affected by the action John was injured in an accident.
 
 <!-- -->
 
--   when you don’t know who is responsible for the action My car was
-    > stolen last week.
+-   when you don’t know who is responsible for the action My car was stolen last week.
 
 ## How to make the passive
 
--   In English we use the verb *to be* with a past participle (*is done,
-    > was bitten*) to make the passive.
+-   In English we use the verb *to be* with a past participle (*is done, was bitten*) to make the passive.
 
 <!-- -->
 
--   In Italian the passive is made in exactly the same way, using
-    > ***e*ssere** (meaning *to be*) and a past participle .
+-   In Italian the passive is made in exactly the same way, using ***e*ssere** (meaning *to be*) and a past participle .
 
 <!-- -->
 
 -   *For more information on the* ***Past participle**, see [The perfect
-    > tense](https://grammar.collinsdictionary.com/us/italian-easy-learning/the-perfect-tense).*
+ tense](https://grammar.collinsdictionary.com/us/italian-easy-learning/the-perfect-tense).*
 
 | **Siamo invitati ad una festa a casa loro.**   | We’re invited to a party at their house.        |
 |------------------------------------------------|-------------------------------------------------|
@@ -1511,28 +1407,19 @@ examples above:
 How do you decide whether to use the lui/lei or the loro form of the
 verb? Use the following guidelines:
 
--   If there is no direct object in the sentence (as in \#3), use the
-    > lui/lei form. Other examples include:
+-   If there is no direct object in the sentence (as in \#3), use the lui/lei form. Other examples include:
 
     -   Di sera si va al cinema. In the evening people go to the movies.
 
-    -   A che ora si esce la mattina? What time to you all leave in the
-        > morning?
+    -   A che ora si esce la mattina? What time to you all leave in the morning?
 
     -   Con chi si deve parlare? Who do we have to talk with?
 
--   If there is a direct object in the sentence, use the lui/lei form of
-    > the verb if the object is singular and the loro form of the verb
-    > if the object is plural. \#1 has a plural object (francobolli),
-    > hence a plural verb (vendono). \#2 has a singular noun
-    > (l’esercizio), hence a singular verb (deve). Other examples
-    > include:
+-   If there is a direct object in the sentence, use the lui/lei form of the verb if the object is singular and the loro form of the verb if the object is plural. \#1 has a plural object (francobolli), hence a plural verb (vendono). \#2 has a singular noun (l’esercizio), hence a singular verb (deve). Other examples include:
 
-    -   A casa mia si mangia molto gelato. At my house, you eat a lot of
-        > ice cream.
+    -   A casa mia si mangia molto gelato. At my house, you eat a lot of ice cream.
 
-    -   Ai ristoranti più popolari non si accettano le prenotazioni. At
-        > the most popular restaurants, they don’t accept reservations.
+    -   Ai ristoranti più popolari non si accettano le prenotazioni. At the most popular restaurants, they don’t accept reservations.
 
     -   Non si sa mai la verità. One never knows the truth.
 
@@ -1559,8 +1446,7 @@ a ci. For example:
 
 -   Ci si diverte alla spiaggia. You have fun at the beach.
 
--   All’università durante l’estate ci si alza molto tardi. At the
-    > university during the summer you get up pretty late.
+-   All’università durante l’estate ci si alza molto tardi. At the university during the summer you get up pretty late.
 
 ## Si impersonale with Adjectives
 
@@ -1570,9 +1456,7 @@ though the verb used with the si is singular. For example:
 
 -   Si è sempre contenti quando si ricevono complimenti dagli altri.
 
--   You are always happy when you get compliments from others.Dopo la
-    > lunga passeggiata si è molto stanchi. After the long walk, people
-    > are really tired.
+-   You are always happy when you get compliments from others.Dopo la lunga passeggiata si è molto stanchi. After the long walk, people are really tired.
 
 ## Si impersonale Through the Tenses
 
@@ -2268,13 +2152,11 @@ Imagine that you want to say these three phrases in Italian:
 
 -   “We play tennis on Saturday.”
 
--   This requires three different verbs, all of which are conjugated
-    > differently:
+-   This requires three different verbs, all of which are conjugated differently:
 
     -   Lavoro lunedì. (I work on Monday.)
 
-    -   Fate martedì il corso d’italiano. (You have Italian lessons on
-        > Tuesday.)
+    -   Fate martedì il corso d’italiano. (You have Italian lessons on Tuesday.)
 
     -   Giochiamo a tennis sabato. (We play tennis on Saturday.)
 
@@ -2284,11 +2166,9 @@ infinitive:
 
 -   Devo lavorare lunedì. (I have to work on Monday.)
 
--   Dovete fare martedì il corso d’italiano. (You have to go to your
-    > Italian lessons on Tuesday.)
+-   Dovete fare martedì il corso d’italiano. (You have to go to your Italian lessons on Tuesday.)
 
--   Dobbiamo giocare a tennis sabato. (We have to play tennis on
-    > Saturday.)
+-   Dobbiamo giocare a tennis sabato. (We have to play tennis on Saturday.)
 
 Modals allow for the use of a vast array of verbs without necessarily
 knowing how to conjugate them.
@@ -2341,8 +2221,7 @@ In English, you’d say:
 
 -   Prendi la mano. (Take the hand.)
 
--   All you need is the definite article (il, i, la, le, gli, lo
-    > \[the\]) and you’re ready to go.
+-   All you need is the definite article (il, i, la, le, gli, lo \[the\]) and you’re ready to go.
 
 ## 4. Focus on Verb Endings Rather Than Pronouns
 
@@ -2392,11 +2271,9 @@ One of the toughest parts of learning the past tense in Italian is
 memorizing when to use avere (to have) versus essere (to be) to form
 your sentence. Here are a couple examples:
 
--   Ho fatto festa. (I had a party.) (“Ho“ is the first person form of
-    > avere.)
+-   Ho fatto festa. (I had a party.) (“Ho“ is the first person form of avere.)
 
--   Sono entrato l’aula. (I entered the classroom.) (“Sono” is the first
-    > person form of essere.)
+-   Sono entrato l’aula. (I entered the classroom.) (“Sono” is the first person form of essere.)
 
 So how do we know which verbs form the past tense with avere and which
 use essere? Well, <u>one trick is to remember that verbs of movement
